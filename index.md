@@ -1,6 +1,6 @@
 # Python and Machine Learning Projects
 
-https://hendejac.github.io/protein_conformations/
+[Elucidating Protein Conformational Differences with Random Forest](https://hendejac.github.io/protein_conformations/)
 
 # Publications
 
