@@ -2,7 +2,7 @@
 
 [Elucidating Protein Conformational Differences with Random Forest](https://hendejac.github.io/Protein-Conformations/)
 
-*Viewing and analzying molecular dynamics (MD) trajectories can be a daunting task, but by using the Random Forest (RF) classifier to classify between protein states, such as with or without an inhibitor, one can use the RF classifiers feature importances to simplify this task.* 
+*Viewing and analzying molecular dynamics (MD) trajectories can be a daunting task, but by using the Random Forest (RF) classifier to classify between protein states, such as with or without an inhibitor, one can use the RF classifier's feature importances to simplify the task.* 
 
 Coming soon, Lambda Dynamics Parser a tool for CpHMD simulations
 
