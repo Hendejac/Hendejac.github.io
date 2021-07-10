@@ -29,11 +29,11 @@ My graduate work has exposed me to many computational skills relevant in Data Sc
 
 [Assessment of proton-coupled conformational dynamics of SARS and MERS coronavirus papain-like proteases: Implication for designing broad-spectrum antiviral inhibitors](https://aip.scitation.org/doi/full/10.1063/5.0020458)
 
-*A study investigating protonation state changes and their effects on protein dynamics of the Papain-Like Protease used for viral replication in COVID19 and other coronaviruses.*
+*A study investigating protonation state changes and their effects on protein dynamics of the Papain-Like Protease used for viral replication in COVID19 and other coronaviruses. [This work received a special press release](https://www.eurekalert.org/pub_releases/2020-09/aiop-pta090920.php).*
 
 ### 2018 
 [How Ligand Protonation State Controls Water in Protein–Ligand Binding](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02440)
 
 *A study showing how changes in the protonation state of a drug can effect water interactions resulting in implications on inhibitor selectivity.*
 
-
+For a full list of publications please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cje-_qEAAAAJ&view_op=list_works&sortby=pubdate).
