@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: <a href="https://github.com/cwolfbrandt">Jack A. Henderson</a>
 logo: "Head_Shot.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Computational Chemist | Data Science
+  <br>
+  <br>
+  To get in touch, please reach out via LinkedIn.
+  <br>
+  <a href="https://www.linkedin.com/in/jack-henderson-6093241b0/">View My LinkedIn Profile</a>
