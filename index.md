@@ -21,7 +21,7 @@ My graduate work has exposed me to many computational skills relevant in Data Sc
 ### 2020
 [Proton-Coupled Conformational Activation of SARS Coronavirus Main Proteases and Opportunity for Designing Small-Molecule Broad-Spectrum Targeted Covalent Inhibitors](https://pubs.acs.org/doi/abs/10.1021/jacs.0c10770)
 
-*A study on the COVID19 main protease and other coronaviruses to investigate the effect of pH on the substrate binding site.*
+*A study on main protease of COVID19 and other coronaviruses to investigate the effect of pH on the substrate binding site.*
 
 [Alternative proton-binding site and long-distance coupling in Escherichia coli sodium–proton antiporter NhaA](https://www.pnas.org/content/117/41/25517.short)
 
