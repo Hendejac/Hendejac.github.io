@@ -16,7 +16,7 @@ My graduate work has exposed me to many computational skills relevant in Data Sc
 ### 2021
 [Continuous constant pH molecular dynamics simulations of transmembrane proteins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8062021/)
 
-*A tutorial on how to simulate transmembrane proteins in simulations that allow for the titration of acid and basic residues.*
+*A tutorial on how to simulate transmembrane proteins in simulations that allow for the titration of acidic and basic residues.*
 
 ### 2020
 [Proton-Coupled Conformational Activation of SARS Coronavirus Main Proteases and Opportunity for Designing Small-Molecule Broad-Spectrum Targeted Covalent Inhibitors](https://pubs.acs.org/doi/abs/10.1021/jacs.0c10770)
