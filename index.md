@@ -4,7 +4,9 @@
 
 *Viewing and analzying molecular dynamics (MD) trajectories can be a daunting task, but by using the Random Forest (RF) classifier to classify between protein states, such as with or without an inhibitor, one can use the RF classifier's feature importances to simplify the task.* 
 
-Coming soon, Lambda Dynamics Parser a tool for CpHMD simulations
+[Continuous Constant-pH Molecular Dynamics Lambda and Log File Parser](https://hendejac.github.io/CpHMD-Analysis/)
+
+*Continuous Constant-pH Molecular Dynamics (CpHMD) simulations produce lambda and log files containing information about the protonation states of acidic and basic residues and the progress of sampling over a range of pH environments. These files can be processed using the CpHMD-Analysis python library to produce important CpHMD metrics and statistics as well as produce plots of the data.*
 
 # Background 
 
