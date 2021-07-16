@@ -10,7 +10,7 @@
 
 [Predicting the Survival of Passengers on the Titanic using Machine Learning](https://hendejac.github.io/titanic_ml/)
 
-*In this short project I used Machine learning to predict the survival of Titanic passengers with a success rate of 87%. The dataset was obtained from Kaggle.*
+*In this short project I used machine learning to predict the survival of Titanic passengers with a success rate of 87%. The dataset was obtained from Kaggle.*
 
 # Background 
 
