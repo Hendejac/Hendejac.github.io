@@ -8,6 +8,10 @@
 
 *Continuous Constant-pH Molecular Dynamics (CpHMD) simulations produce lambda and log files containing information about the protonation states of acidic and basic residues and the progress of sampling over a range of pH environments. These files can be processed using the CpHMD-Analysis python library to produce important CpHMD metrics and statistics as well as produce plots of the data.*
 
+[Predicting the Survival of Passengers on the Titanic using Machine Learning](https://hendejac.github.io/titanic_ml/)
+
+*In this short project I used Machine learning to predict the survival of Titanic passengers with a success rate of 87%. The dataset was obtained from Kaggle.*
+
 # Background 
 
 I will earn my P.h. D. in Pharmaceutical Sciences on Oct. 22nd from the Univeristy of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
