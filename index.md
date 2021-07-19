@@ -14,7 +14,7 @@
 
 # Background 
 
-I will earn my P.h. D. in Pharmaceutical Sciences on Oct. 22nd from the Univeristy of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
+I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the Univeristy of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
 My research uses a specialized type of MD simulations that allow for the titration of acid and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dyanmics (CpHMD).
 My graduate work has exposed me to many computational skills relevant in Data Science such as machine learning, statistical analysis, and managing large quantities of data.
 
