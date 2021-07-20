@@ -15,7 +15,7 @@
 # Background 
 
 I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the University of Maryland Baltimore performing Molecular Dynamics (MD) simulations to aid the development and discovery of novel drugs.
-My research uses a specialized type of MD simulations that allow for the titration of acid and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dynamics (CpHMD).
+My research uses a specialized type of MD simulation that allows for the titration of acidic and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dynamics (CpHMD).
 My graduate work has exposed me to many computational skills relevant to Data Science such as machine learning, statistical analysis, and managing large quantities of data.
 
 # First Author Publications
