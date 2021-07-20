@@ -2,7 +2,7 @@
 
 [Elucidating Protein Conformational Differences with the Random Forest Classifier](https://hendejac.github.io/Protein-Conformations/)
 
-*Viewing and analzying molecular dynamics trajectories can be a daunting task, but by using the Random Forest classifier to classify between protein states, such as with or without an inhibitor, one can use the Random Forest classifier's feature importances to simplify the task.* 
+*Viewing and analzying molecular dynamics trajectories can be a daunting task, but by using the Random Forest algorithm to classify between protein states, such as with or without an inhibitor, one can use the Random Forest classifier's feature importances to simplify the task.* 
 
 [Continuous Constant-pH Molecular Dynamics Lambda and Log File Parser](https://hendejac.github.io/CpHMD-Analysis/)
 
@@ -10,13 +10,13 @@
 
 [Predicting the Survival of Passengers on the Titanic using Machine Learning](https://hendejac.github.io/titanic_ml/)
 
-*In this short project I used machine learning to predict the survival of Titanic passengers with a success rate of 87%. The dataset was obtained from Kaggle.*
+*In this short project, I used machine learning to predict the survival of Titanic passengers with a success rate of 87%. The dataset was obtained from Kaggle.*
 
 # Background 
 
-I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the Univeristy of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
-My research uses a specialized type of MD simulations that allow for the titration of acid and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dyanmics (CpHMD).
-My graduate work has exposed me to many computational skills relevant in Data Science such as machine learning, statistical analysis, and managing large quantities of data.
+I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the University of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
+My research uses a specialized type of MD simulations that allow for the titration of acid and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dynamics (CpHMD).
+My graduate work has exposed me to many computational skills relevant to Data Science such as machine learning, statistical analysis, and managing large quantities of data.
 
 # First Author Publications
 ### 2021
