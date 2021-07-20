@@ -14,7 +14,7 @@
 
 # Background 
 
-I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the University of Maryland Baltimore performing molecular dynamics (MD) simulations to aid the development and discovery of novel drugs.
+I will earn my Ph. D. in Pharmaceutical Sciences on Oct. 22nd from the University of Maryland Baltimore performing Molecular Dynamics (MD) simulations to aid the development and discovery of novel drugs.
 My research uses a specialized type of MD simulations that allow for the titration of acid and basic residues during the progression of MD process and is known as Continuous-Constant pH Molecular Dynamics (CpHMD).
 My graduate work has exposed me to many computational skills relevant to Data Science such as machine learning, statistical analysis, and managing large quantities of data.
 
@@ -27,11 +27,11 @@ My graduate work has exposed me to many computational skills relevant to Data Sc
 ### 2020
 [Proton-Coupled Conformational Activation of SARS Coronavirus Main Proteases and Opportunity for Designing Small-Molecule Broad-Spectrum Targeted Covalent Inhibitors](https://pubs.acs.org/doi/abs/10.1021/jacs.0c10770)
 
-*A study on the main protease of COVID19 and other coronaviruses to investigate the effects of pH on the substrate binding site.*
+*A study on the main protease of COVID19 and other coronaviruses to investigate the effects of pH on the substrate-binding site.*
 
 [Alternative proton-binding site and long-distance coupling in Escherichia coli sodium–proton antiporter NhaA](https://www.pnas.org/content/117/41/25517.short)
 
-*A study answering a hottly debated question about proton binding in a protein named NhaA that exchanges protons for sodium ions.*
+*A study answering a hotly debated question about proton binding in a protein named NhaA that exchanges protons for sodium ions.*
 
 [Assessment of proton-coupled conformational dynamics of SARS and MERS coronavirus papain-like proteases: Implication for designing broad-spectrum antiviral inhibitors](https://aip.scitation.org/doi/full/10.1063/5.0020458)
 
@@ -40,6 +40,6 @@ My graduate work has exposed me to many computational skills relevant to Data Sc
 ### 2018 
 [How Ligand Protonation State Controls Water in Protein–Ligand Binding](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02440)
 
-*A study showing how changes in the protonation state of a drug can effect water interactions resulting in implications on inhibitor selectivity.*
+*A study showing how changes in the protonation state of a drug can affect water interactions resulting in implications on inhibitor selectivity.*
 
 For a full list of publications please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cje-_qEAAAAJ&view_op=list_works&sortby=pubdate).
